@@ -1,2 +1,6 @@
 This is my first app.
-add a branch & dev.
+<<<<<<< HEAD
+add a branch and dev.
+=======
+add a branch and dev.
+>>>>>>> dev
